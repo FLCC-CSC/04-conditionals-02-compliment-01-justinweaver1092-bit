@@ -14,7 +14,12 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
-
+compliment = input('Would you like a compliment?: ')
+if (compliment == 'yes'):
+    print('You have wonderful eyes.')
+          
+print('Thank you for playing')
+        
 
 
 
