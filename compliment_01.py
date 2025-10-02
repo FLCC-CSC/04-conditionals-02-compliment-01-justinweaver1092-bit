@@ -1,8 +1,8 @@
 # FILE NAME - compliment_01.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Justin Weaver
+# DATE: 10/2/25
+# BRIEF DESCRIPTION:  Compliments
 
 
 
@@ -71,14 +71,13 @@ Thank you for playing.
 '''
 
 1. On a scale of 1 to 10 (where 10 is the hardest), how would you rate this lab?
-
+1
 
 
 
 2. What was the hardest part of this lab?
 
-
-
+like ususal just making sure the syntax is right and all my punctuation and delimters are placed correctly. 
 
 
 
